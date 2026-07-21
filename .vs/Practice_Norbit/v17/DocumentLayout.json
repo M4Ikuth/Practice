@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kirill\\source\\repos\\Practice_Norbit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B2434A4-434B-4D9A-A11F-B2AAB8666907}|Types_task1\\Types_task1.csproj|c:\\users\\kirill\\source\\repos\\practice_norbit\\types_task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B2434A4-434B-4D9A-A11F-B2AAB8666907}|Types_task1\\Types_task1.csproj|solutionrelative:types_task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120BB6C5-DD74-4CF1-8A84-FE3919E52322}|Types_task2\\Types_task2.csproj|C:\\Users\\Kirill\\source\\repos\\Practice_Norbit\\types_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120BB6C5-DD74-4CF1-8A84-FE3919E52322}|Types_task2\\Types_task2.csproj|solutionrelative:types_task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice_Norbit\\Types_task1\\Program.cs",
+              "RelativeDocumentMoniker": "Types_task1\\Program.cs",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice_Norbit\\Types_task1\\Program.cs",
+              "RelativeToolTip": "Types_task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T19:40:21.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kirill\\source\\repos\\Practice_Norbit\\Types_task2\\Program.cs",
+              "RelativeDocumentMoniker": "Types_task2\\Program.cs",
+              "ToolTip": "C:\\Users\\Kirill\\source\\repos\\Practice_Norbit\\Types_task2\\Program.cs",
+              "RelativeToolTip": "Types_task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T10:01:34.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

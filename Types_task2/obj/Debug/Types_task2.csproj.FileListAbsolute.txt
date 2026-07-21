@@ -1,0 +1,8 @@
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\bin\Debug\Types_task2.exe.config
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\bin\Debug\Types_task2.exe
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\bin\Debug\Types_task2.pdb
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\obj\Debug\Types_task2.csproj.AssemblyReference.cache
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\obj\Debug\Types_task2.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\obj\Debug\Types_task2.exe
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\obj\Debug\Types_task2.pdb
+C:\Users\Kirill\source\repos\Practice_Norbit\Types_task2\obj\Debug\Types_task2.exe.config
