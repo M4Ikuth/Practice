@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OOP.task
 {
@@ -17,7 +13,10 @@ namespace OOP.task
     }
     class Rectangle
     {
-        public Point TopLeft { get; }
+        public Point TopLeft
+        {
+            get; 
+        }
         private double _width, _height;
         public Rectangle(double x, double y, double width, double height)
         {
@@ -28,21 +27,27 @@ namespace OOP.task
                 throw new ArgumentOutOfRangeException("Недопустимое значение ширины");
             }
             else
-                this._width = width;
+                _width = width;
             if (height < 0)
             {
                 throw new ArgumentOutOfRangeException("Недопустимое значение высоты");
             }
             else
-                this._height = height;
+                _height = height;
         }
         public double Area
         {
-            get { return _height * _width; }
+            get
+            {
+                return _height * _width; 
+            }
         }
         public double Perimeter
         {
-            get { return (_height + _width) * 2; }
+            get
+            {
+                return (_height + _width) * 2;
+            }
         }
 
         public static Rectangle ReadRectangle()
